@@ -1,3 +1,37 @@
 /* 6つのp要素に適用するスタイルを宣言 */
-
+p {
+    background-color: blue;
+}
+.white {
+    color: white;
+}
+.yellow {
+    color: yellow;
+}
+#red {
+    color: red;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
+li {
+    font-size: 16px;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+.back-gray {
+    background-color: gray;
+}
+.back-green {
+    background-color: green;
+}
+.back-brown {
+    background-color: brown;
+}
+#small {
+    font-size: 12px;
+}
+/* CSSにおいて、id属性に使える文字は半角英数字、ハイフン、アンダースコア、コロン、ピリオド */
+/* CSSにおいて、id属性はアルファベットで始めなければならず、数字やハイフンで始めてはならない */
